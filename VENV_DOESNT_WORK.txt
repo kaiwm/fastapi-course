@@ -1,0 +1,10 @@
+IN ORDER TO ACTIVATE VIRTUALVENV
+Go to cmd and navigate to this directory
+
+Run the following command:
+
+venv\Scripts\Activate.ps1
+
+To deactivate:
+
+deactivate
